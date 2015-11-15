@@ -5,3 +5,4 @@ module TicTacToe
 end
 
 require "tic_tac_toe/cell.rb"
+require "tic_tac_toe/player.rb"
